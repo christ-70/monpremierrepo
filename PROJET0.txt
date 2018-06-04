@@ -1,0 +1,4 @@
+1 1ere question - Quel sera le PROJET 0 ?
+2 2eme question - Sous combien de temps devra t'on rendre celui-ci ?
+3 3eme question - Le projet 0 sera t''il complexe dans le codage JAVA ?
+4 Dernière question afin  fin du projet0 - qui validera ce projet0 ?
